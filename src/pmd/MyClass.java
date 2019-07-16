@@ -5,4 +5,7 @@ public class MyClass {
 	    int x = 100 + 50;
 	    System.out.println(x);
 	  }
+	  public static void Subfunction(){
+		  int y = 10 +50;
+	  }
 	}
