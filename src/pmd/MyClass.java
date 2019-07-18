@@ -1,5 +1,5 @@
 package pmd;
-//comments added more args
+//comments added more args added
 public class MyClass {
 	  public static void main(String[] args) {
 	    int x = 100 + 50;
