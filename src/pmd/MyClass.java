@@ -1,4 +1,5 @@
 package pmd;
+//comments added
 public class MyClass {
 	  public static void main(String[] args) {
 	    int x = 100 + 50;
