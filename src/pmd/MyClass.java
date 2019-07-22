@@ -1,5 +1,5 @@
 package pmd;
-//comments add one
+//comments added one
 public class MyClass {
 	public static void main(String[] args) {
 		
