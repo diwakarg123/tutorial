@@ -1,20 +1,22 @@
 package pmd;
 //comment added to git
 public class MyClass {
-	public static void main(String[] args) {
-		testMethod();
 
-		
-	  }
-	public static int testMethod() {
-		int a = 0;
-		try {
-			 a= 10;
-			
-		} 
-		catch (Exception e) {
+	public static void main(String args[]) 
+    {   
 
-		}
-		return a;
-	}
+           
+	   double r= 3.5;
+         
+	   MyClass.area(r);
+ 
+      }
+     public static double area(double r)
+    {   
+       
+	   double  a=(22*2*r)/7;
+ 
+           return a;
+      }
+	
 }
