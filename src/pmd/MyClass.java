@@ -5,7 +5,7 @@ public class MyClass {
 		
 		try {
 			int[] myNumbers = {1, 2, 3};
-			system.out.println(myNumbers[10]);
+			System.out.println(myNumbers[10]);
 		} 
 		catch (Exception e) {
 			System.out.println("Something went wrong.");
