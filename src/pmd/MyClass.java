@@ -1,5 +1,5 @@
 package pmd;
-//comment added to git
+//comment
 public class MyClass {
 
 	public static void main(String args[]) 
@@ -7,7 +7,7 @@ public class MyClass {
 
            
 	   double r= 3.5;
-       int x = 10 + 20;  
+       //int x = 10 + 20;  
 	   MyClass.area(r);
  
       }
