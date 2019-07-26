@@ -7,7 +7,7 @@ public class MyClass {
 
            
 	   double r= 3.5;
-       //int x = 10 + 20;  
+       int x = 10 + 20;  
 	  area(r);
  
       }
