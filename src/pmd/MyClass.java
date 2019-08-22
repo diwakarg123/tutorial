@@ -6,7 +6,7 @@ public class MyClass {
     {   
 
            
-	   double r= 3.5557;
+	   double r= 3.55577;
 	  area(r);
 	  try {
 	 //wait(2000);
