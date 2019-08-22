@@ -6,7 +6,7 @@ public class MyClass {
     {   
 
            
-	   double r= 3.555776;
+	   double r= 3.5;
 	  area(r);
 	  try {
 	 
