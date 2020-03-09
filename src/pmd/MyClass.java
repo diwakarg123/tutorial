@@ -19,7 +19,7 @@ public class MyClass {
      public static double area(double r)
     {   
        
-	   double  a=(22*6*r)/7;
+	   double  a=(22*7*r)/7;
 	   			
            return a;
       }
