@@ -14,7 +14,7 @@ public class MyClass {
      public static double area(double r)
     {   
        
-	   double  a=(22*4*r)/7;
+	   double  a=(22*5*r)/7;
 	   			
            return a;
       }
