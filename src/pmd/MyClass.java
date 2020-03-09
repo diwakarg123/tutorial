@@ -8,12 +8,12 @@ public class MyClass {
            
 	   double r= 3.5;
 	  area(r);
-	  try {
+	  /*try {
 		wait(1200);
 	  }
 	  catch(Exception e) {
 		  
-	  }
+	  }*/
  
       }
      public static double area(double r)
