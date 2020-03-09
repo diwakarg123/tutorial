@@ -8,13 +8,18 @@ public class MyClass {
            
 	   double r= 3.5;
 	  area(r);
-
+	  try {
+		wait(1200);
+	  }
+	  catch(Exception e) {
+		  
+	  }
  
       }
      public static double area(double r)
     {   
        
-	   double  a=(22*5*r)/7;
+	   double  a=(22*2*r)/7;
 	   			
            return a;
       }
