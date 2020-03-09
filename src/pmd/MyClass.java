@@ -7,13 +7,13 @@ public class MyClass {
 
            
 	   double r= 3.5;
-	  area(r);
+	  /*area(r);
 	  try {
-		wait(400);
+		wait(100);
 	  }
 	  catch(Exception e) {
 		  
-	  }
+	  }*/
  
       }
      public static double area(double r)
