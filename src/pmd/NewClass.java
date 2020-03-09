@@ -19,7 +19,7 @@ public class NewClass {
 	     public static double area(double r)
 	    {   
 	       
-		   double  a=(22*33*r)/7;
+		   double  a=(22*1*r)/7;
 		   			
 	           return a;
 	      }
