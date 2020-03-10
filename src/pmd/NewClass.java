@@ -7,7 +7,7 @@ public class NewClass {
 	    {   
 
 	           
-		   double r= 6;
+		   double r= 7;
 		   area(r);
 		   try{
 			   wait(1000);
