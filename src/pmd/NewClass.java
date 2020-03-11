@@ -10,7 +10,7 @@ public class NewClass {
 		   double r= 9;
 		   area(r);
 		   try{
-			   wait(1008);
+			   wait(100);
 		   }
 		   catch(Exception e){
 		   }
