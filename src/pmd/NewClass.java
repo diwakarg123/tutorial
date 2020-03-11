@@ -7,13 +7,8 @@ public class NewClass {
 	    {   
 
 	           
-		   double r= 9;
+		   double r= 3.5;
 		   area(r);
-		   try{
-			   wait(120);
-		   }
-		   catch(Exception e){
-		   }
 
 	      }
 	     public static double area(double r)
