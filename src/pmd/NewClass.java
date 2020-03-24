@@ -7,7 +7,7 @@ public class NewClass {
 	    {   
 
 	           
-		   double r=10;
+		   double r=12;
 		   area(r);
 
 	      }
